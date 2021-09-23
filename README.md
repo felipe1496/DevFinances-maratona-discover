@@ -14,6 +14,9 @@ To start the project open index.html in your browser
 
 ## 📸 Screenshots
 
+<img src="assets/devfinances_view_1.png" alt="Home Page">
+<img src="assets/devfinances_view_2.png" alt="Modal Page">
+
 
 
 
